@@ -4,7 +4,7 @@ https://20it024.wixsite.com/my-site
 # Website Brief: Music Streaming and Instrumental Songs Platform
 
 Overview:
-Our website is a music streaming platform that allows users to enjoy a wide range of instrumental songs and explore various music-related sections. Developed using the Wix platform, we have dedicated two semesters to creating a user-friendly and visually appealing website. Our goal is to provide a seamless music experience for users while showcasing our own recorded instrumental songs.
+Our website is a kind of music streaming website called "MusicaLLL" that allows users to enjoy a wide range of instrumental songs and explore various music-related sections. Developed using the Wix platform, we have dedicated two semesters to creating a user-friendly and visually appealing website, designed through Drag and Drop features. Our goal is to provide a seamless music experience for users while showcasing our own recorded instrumental songs.
 
 # Key Features:
 
